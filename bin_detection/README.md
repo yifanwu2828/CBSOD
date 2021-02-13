@@ -16,6 +16,9 @@ output is a binary image mask, M ∈ Z 0 m×n , which indicates
 region of interests based on the bin-blueness. Each entry of
 matrix, M i,j ∈ {0, 1} is 1 indicates the pixel has bin-blue
 color and 0 otherwise.
+![plot](/Results/img_msk_valid1.png)
+![plot](/Results/img_msk_valid2.png)
+![plot](/Results/img_msk_valid3.png)
 
 
 ## Image Processing
@@ -26,6 +29,9 @@ with similar value in the RGB color space. In order to filter
 out noisy objects in an image mask, morphological operations
 (e.g., dilation or erosion) was performed on the output binary
 image mask.
+![plot](/Results/img_process1.png)
+![plot](/Results/img_process2.png)
+![plot](/Results/img_process3.png)
 
 
 ## ROIs and ounding Box Algo
@@ -46,3 +52,7 @@ M ∈ Z m×n
 corner and lower-right corner of output bounding box. Figure
 1 displays a sample result of blue-bin detector with a red
 rectangular bounding box around a blue bin.
+![plot](/Results/myplot1.png)
+![plot](/Results/myplot2.png)
+![plot](/Results/myplot3.png)
+![plot](/Results/myplot4.png)
