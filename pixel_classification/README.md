@@ -16,4 +16,4 @@ y ∈ {−1, 1}. Three parameters (ω red
 optimized individually with respect to 3 target colors (red,
 green, blue).
 
-![plot](./pixel_classification/blue1.png)
+![plot](/Results/blue1.png)
