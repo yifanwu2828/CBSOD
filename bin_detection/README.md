@@ -60,5 +60,4 @@ rectangular bounding box around a blue bin.
 
 ![plot](/Results/myplot1.png)
 ![plot](/Results/myplot2.png)
-![plot](/Results/myplot3.png)
 ![plot](/Results/myplot4.png)
