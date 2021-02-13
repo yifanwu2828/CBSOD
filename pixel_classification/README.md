@@ -15,3 +15,5 @@ y ∈ {−1, 1}. Three parameters (ω red
 ) were
 optimized individually with respect to 3 target colors (red,
 green, blue).
+
+![plot](blue1.png)
